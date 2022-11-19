@@ -1,0 +1,3 @@
+# .NetStartingApp
+
+The repo marks a .net mvc project beginnig. More to come...
